@@ -1,17 +1,21 @@
 {
   "name": "tut1",
-  "set": "psc-0.12.0",
+  "set": "psc-0.12.2",
   "source": "https://github.com/purescript/package-sets.git",
   "depends": [
     "console",
     "control",
     "effect",
+    "exceptions",
     "functions",
     "identity",
     "integers",
     "lists",
+    "node-fs",
     "prelude",
     "psci-support",
+    "random",
+    "simple-json",
     "strings",
     "unsafe-coerce"
   ]
